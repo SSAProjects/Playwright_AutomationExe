@@ -1,0 +1,33 @@
+{
+   
+
+    "username" : "testpractice13",
+ "email" : "testpractice13@gmail.com",
+"searchString" : "top for women",
+"RecommendedItemName" : "Summer White Top",
+"increasedQuantity" : "4",
+"validusername" : "testpractice3",
+    "validemail" : "testpractice3@gmail.com",
+    "password" : "test1234!",
+     "firstname" : "test",
+    "lastname" : "practice",
+     "company" : "sample",
+     "address" : "1 Ravina Dr",
+     "state" : "Georgia",
+     "city" : "Atlanta",
+     "zip" : "30346",
+     "country" : "United States",
+    "phone" : "3138965421",
+    "cardName" : "Test Practice",
+     "cardNumber" : "1234025680457701245",
+     "cardCVC" : "311",
+     "cardExpMonth" : "08",
+     "ardExpYear" : "2028",
+     
+"invalidemail" : "practiceTest1@gmail.com",
+
+"uploadfilepath" : "C:/Seena/Udemy/Playwright/JSCoding/excelDownloadTest.xlsx"
+
+
+
+}
