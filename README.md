@@ -8,6 +8,7 @@ Covers key workflows like login, product search, cart, and checkout.
 UI functional test automation using Playwright Test framework
 Data-driven testing with JSON.
 HTML test execution report generation
+Page Object Model design 
 Reusable locators and assertion logic
 
 🔹 Tools & Tech
