@@ -5,7 +5,7 @@ Covers key workflows like login, product search, cart, and checkout.
 
 🔹 Features
 
-UI functional test automation using Page Object Model framework
+UI functional test automation using Playwright Test framework
 Data-driven testing with JSON.
 HTML test execution report generation
 Page Object Model design 
